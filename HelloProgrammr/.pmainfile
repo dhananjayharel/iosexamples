@@ -1,6 +1,6 @@
 {"mainfile":"HelloProgrammr/ContentView.swift",
 "compilemenucommand":"sh ./compile.sh",
-"runmenucommand":"sh ./runfile.sh",
+"runmenucommand":":>./.outputurl; sh ./runfile.sh",
 "previewApp":true,
 "viewtype":"browser",
 "outputtype":"web",

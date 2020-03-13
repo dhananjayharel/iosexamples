@@ -1,0 +1,9 @@
+{"mainfile":"HelloProgrammr/ContentView.swift",
+"compilemenucommand":"sh ./compile.sh",
+"runmenucommand":"sh ./runfile.sh",
+"previewApp":true,
+"viewtype":"browser",
+"outputtype":"web",
+"appEmbedUrl":"https://www.skillstack.com/widgets/",
+"emberParams":"device=iphone6s&scale=75&orientation=portrait&osVersion=13.3&centered=true&autoplay=true"
+}
